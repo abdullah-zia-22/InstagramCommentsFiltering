@@ -1,0 +1,38 @@
+.main-div, .sec-div
+{
+  border: 2px solid black;
+  background-color: #f0a500;
+  width: 400px;
+  height: auto;
+}
+.text
+{
+  font-family: quicksand;
+}
+.top-font-size
+{
+  font-size: 20px;
+}
+.below-font-size
+{
+  font-size: 18px;
+}
+.fazulki
+{
+  padding-top: 5px;
+}
+.btn
+{
+  background-color:#f0a500;
+  border: 1px solid black;
+}
+button:hover
+{
+  background-color: #000000;
+  color:#f0a500 ;
+}
+.xyz
+{
+  font-size: 10px;
+  color: red;
+}
